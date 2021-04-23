@@ -1,6 +1,6 @@
 
 
-[![Header](https://avatars.githubusercontent.com/u/58085851?v=4)](https://martinheinz.dev/)
+<!--[![Header](https://avatars.githubusercontent.com/u/58085851?v=4)](https://martinheinz.dev/)-->
 
 
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -26,6 +26,5 @@ Discord: Raymond#0001
 <a href="https://github.com/Rayrnond">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rayrnond&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Raymond's GitHub Stats" />
 </a>
-
 
 ***![](https://img.shields.io/github/followers/rayrnond?style=flat&logoColor=white&color=2bbc8a)***
