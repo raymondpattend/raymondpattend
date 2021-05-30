@@ -8,6 +8,9 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://komarev.com/ghpvc/?username=rayrnond&color=2bbc8a)
+
+
 
 
 ## &#x270d; About Myself
@@ -26,5 +29,3 @@ Discord: Raymond#0001
 <a href="https://github.com/Rayrnond">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rayrnond&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Raymond's GitHub Stats" />
 </a>
-
-***![](https://img.shields.io/github/followers/rayrnond?style=flat&logoColor=white&color=2bbc8a)***
