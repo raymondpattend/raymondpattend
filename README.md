@@ -19,7 +19,7 @@ I'm Raymond. A freelancer, Java Developer, and animal lover. I have 1 bunny Mini
 Apart from coding, I enjoy playing Minecraft and hanging out with Friends. 
 If you are looking to hire a freelancer, I'm always available. 
 
-Discord: Raymond#0001
+Discord: Raymond#0001 269262067503071232
 
 ## &#x1f4c8; GitHub Stats
 
