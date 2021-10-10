@@ -15,11 +15,11 @@
 
 ## &#x270d; About Myself
 
-I'm Raymond. A freelancer, Java Developer, and animal lover. I have 1 bunny Mini Rex named "Chocolate Chip", 13 Chickens, 2 Ducks, and 3 Fish. 
-Apart from coding, I enjoy playing Minecraft and hanging out with Friends. 
-If you are looking to hire a freelancer, I'm always available. 
+I'm Raymond. A freelancer, Java Developer, and animal lover.
 
 Discord: Raymond#0001 269262067503071232
+
+I've worked for PurplePrison, BridgerLand, and XinCraft! If you need a professional developer, send me a message.
 
 ## &#x1f4c8; GitHub Stats
 
