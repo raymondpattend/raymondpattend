@@ -15,11 +15,11 @@
 
 ## &#x270d; About Myself
 
-I'm Raymond. A freelancer, Java Developer, and animal lover.
+Heyo, I'm Raymond.
+I develop professional software programs for thousands of people as a passion.
 
-Discord: Raymond#0001 269262067503071232
-
-I've worked for PurplePrison, BridgerLand, and XinCraft! If you need a professional developer, send me a message.
+If you need a professional developer, send me a message.
+Raymond#0001 on Discord, raymond@reflexian.com through email.
 
 ## &#x1f4c8; GitHub Stats
 
