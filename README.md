@@ -21,6 +21,11 @@ I develop professional software programs for thousands of people as a passion.
 If you need a professional developer, send me a message.
 Raymond#0001 on Discord, raymond@reflexian.com through email.
 
+
+<a href="https://reflexian.com/verified?email=raymondpattend@icloud.com">
+  <img align="center" size=250" src="https://reflexian.com/images/verified.svg" />
+</a>
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Rayrnond">
