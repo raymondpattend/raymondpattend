@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://komarev.com/ghpvc/?username=rayrnond&color=2bbc8a)
-
+[![wakatime](https://wakatime.com/badge/user/5d286924-fd40-4224-bc3e-c82d684a3176.svg)](https://wakatime.com/@5d286924-fd40-4224-bc3e-c82d684a3176)
 
 
 
