@@ -1,36 +1,27 @@
+## Journey To The Future
+
+I am a tech professional with a passion for creating cutting-edge software and hardware that positively impacts the world. My mission is to develop assertive technologies that make a difference in people's lives.
+
+In today's digital age, software and hardware have become essential to our daily lives. From our smartphones to our laptops, we rely on technology to stay connected, informed, and productive. That's why I'm committed to developing software that is not only functional but also visually appealing, secure, and easy to use.
+
+My belief is that good software should be practical, intuitive, and reliable. There's no room for buggy, slow, or useless code, especially in today's fast-paced world where every second counts. That's why I'm committed to delivering software that is fast, efficient, and optimized for performance.
+
+## Project Narro
+
+Narro is a single-topic social media. One topic, one response, every single day. We aim to produce a quality conversation platform that encourages discussion and reduces mental fatigue through online chatrooms. From day one, Narro keeps user information hidden, protecting your data with every click.
+
+Narro is hiring, visit [reflexian.com/careers#narro](https://reflexian.com/careers#narro).
 
 
-<!--[![Header](https://avatars.githubusercontent.com/u/58085851?v=4)](https://martinheinz.dev/)-->
+## Contact Raymond
+
+Personal Email - raymondpattend@icloud.com
+
+Work Email - raymond@reflexian.com
+
+LinkedIn - [linkedin.com/in/raymondpattend](https://www.linkedin.com/in/raymondpattend/)
+
+Discord - Raymond#0001
 
 
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Macintosh-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://komarev.com/ghpvc/?username=rayrnond&color=2bbc8a)
-[![wakatime](https://wakatime.com/badge/user/5d286924-fd40-4224-bc3e-c82d684a3176.svg)](https://wakatime.com/@5d286924-fd40-4224-bc3e-c82d684a3176)
-
-
-
-## &#x270d; About Myself
-
-Heyo, I'm Raymond.
-I develop professional software programs for thousands of people as a passion.
-
-If you need a professional developer, send me a message.
-Raymond#0001 on Discord, raymond@reflexian.com through email.
-
-
-<a href="https://reflexian.com/verified?email=raymondpattend@icloud.com">
-  <img align="center" size=250" src="https://reflexian.com/images/verified.svg" />
-</a>
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/Rayrnond">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayrnond&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/Rayrnond">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rayrnond&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Raymond's GitHub Stats" />
-</a>
+(!) If you need to urgently contact me, use Discord.
