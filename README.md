@@ -4,7 +4,9 @@ I am a tech professional with a passion for creating cutting-edge software and h
 
 In today's digital age, software and hardware have become essential to our daily lives. From our smartphones to our laptops, we rely on technology to stay connected, informed, and productive. That's why I'm committed to developing software that is not only functional but also visually appealing, secure, and easy to use.
 
-My belief is that good software should be practical, intuitive, and reliable. There's no room for buggy, slow, or useless code, especially in today's fast-paced world where every second counts. That's why I'm committed to delivering software that is fast, efficient, and optimized for performance.
+My belief is that good software should be practical, intuitive, and reliable. There's no room for buggy, slow, or useless code, especially in today's fast-paced world where every second counts. 
+
+If you share similar beliefs, connect with me through LinkedIn or shoot me an Email @ raymond@reflexian.com.
 
 ## Project Narro
 
@@ -24,4 +26,4 @@ LinkedIn - [linkedin.com/in/raymondpattend](https://www.linkedin.com/in/raymondp
 Discord - Raymond#0001
 
 
-(!) If you need to urgently contact me, use Discord.
+If you need to urgently contact me, use Discord. I will respond within 30 minutes between 6AM-11:59PM EST.
