@@ -23,7 +23,7 @@ Work Email - raymond@reflexian.com
 
 LinkedIn - [linkedin.com/in/raymondpattend](https://www.linkedin.com/in/raymondpattend/)
 
-Discord - Raymond#0001
+Discord - rayrnond
 
 
 If you need to urgently contact me, use Discord. I will respond within 30 minutes between 6AM-11:59PM EST.
